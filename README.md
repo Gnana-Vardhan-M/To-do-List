@@ -1,2 +1,2 @@
 # To-do-List
-todo list in kotlin
+To-do list in kotlin
