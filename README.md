@@ -22,7 +22,7 @@ A simple **To-Do List** app built in Kotlin to help users manage their daily tas
 ### Steps
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Gnana-Vardhan-M/todo-list.git
+   git clone https://github.com/Gnana-Vardhan-M/To-Do-List.git
    cd todo-list
    ```
 2. **Open the project** in **Android Studio**.
